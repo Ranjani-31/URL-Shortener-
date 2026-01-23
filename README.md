@@ -42,7 +42,7 @@
 - JavaScript
 
 - React
-- 
+  
 ## Backend
 
 - Node.js
