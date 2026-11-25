@@ -58,3 +58,14 @@
 - Mongoose
 
 - Postman (API testing)
+
+## API routes
+
+Versioned API endpoints use the `/api/v1` prefix:
+
+- `/users` for registration, login, account details, and API keys
+- `/urls` for creating and managing links and analytics
+- `/payment` for Pro plan checkout and payment history
+- `/links` for API-key-based link creation
+
+Short links redirect from the root path (`/<short-code>`).
